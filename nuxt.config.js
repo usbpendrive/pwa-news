@@ -16,7 +16,8 @@ module.exports = {
   modules: [
     '@nuxtjs/axios',
     '@nuxtjs/dotenv',
-    '@nuxtjs/bulma'
+    '@nuxtjs/bulma',
+    '@nuxtjs/pwa'
   ],
   /*
   ** Customize the progress bar color
